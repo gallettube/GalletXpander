@@ -22,3 +22,8 @@ Easy to use Just get the Swift classes and complete the next function with as mu
     }
     
 You also need to increase the numbers of row but it's easy
+
+ override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+        // number of cells to display To increase in the example there is 10
+        return 10
+    }
