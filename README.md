@@ -1,4 +1,11 @@
 # GalletXpander
+
+## Requirements
+
+- iOS 10.0+
+- Xcode 8.0+
+- Swift 3.0+
+
 Easy to use Just get the Swift classes and complete the next function with as much items as you want!
 
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
