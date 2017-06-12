@@ -2,8 +2,7 @@
 //  ViewController.swift
 //  Cell Expander
 //
-//  Created by Christian Di Lorenzo on 4/7/15.
-//  Copyright (c) 2015 Christian Di Lorenzo. All rights reserved.
+//  Copyright (c) 2017 Jon Galletero. All rights reserved.
 //
 
 import UIKit
